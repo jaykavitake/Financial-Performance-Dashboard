@@ -34,7 +34,7 @@ The following business questions were analyzed and answered through this dashboa
 ✅ 12-month P&L trend tracking.
 ✅ Clean, professional blue & orange color theme.
 
-# Dasnboard
+# Dashboard
 <img width="1869" height="663" alt="Screenshot 2026-04-05 202701" src="https://github.com/user-attachments/assets/244ee1db-dd78-4d96-9bba-8785b7a4ad3b" />
 
 # Final Conclusion
