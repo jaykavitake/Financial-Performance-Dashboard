@@ -23,7 +23,7 @@ The following business questions were analyzed and answered through this dashboa
 
 -Dashboard Interactions <a href="https://github.com/jaykavitake/Financial-Performance-Dashboard/blob/main/Screenshot%202026-04-05%20202701.png">View DashBoard</a>
 
- ##Features
+##Features
 ✅ Interactive KPI Cards showing key financial metrics at a glance.
 ✅ Dynamic charts that update automatically with slicer filters.
 ✅ Month & Quarter slicers connected across multiple dashboards.
@@ -37,6 +37,6 @@ The following business questions were analyzed and answered through this dashboa
 ##Dasnboard
 <img width="1869" height="663" alt="Screenshot 2026-04-05 202701" src="https://github.com/user-attachments/assets/244ee1db-dd78-4d96-9bba-8785b7a4ad3b" />
 
-33Final Conclusion
+##Final Conclusion
 This Financial Performance Dashboard successfully transforms raw financial data into clear, actionable insights for business decision-making.
 
