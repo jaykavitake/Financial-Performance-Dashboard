@@ -11,7 +11,7 @@ An interactive Excel dashboard that provides a complete 360° view of business f
 # Questions (KPIs)
 The following business questions were analyzed and answered through this dashboard:
 
-📊 Compare the Revenue and Expense using a single chart
+📊 Compare the Revenue and Expense using a single chart?
 
 📅 Which month got the highest Revenue and Expense?
 
@@ -34,6 +34,7 @@ The following business questions were analyzed and answered through this dashboa
 -Dashboard Interactions <a href="https://github.com/jaykavitake/Financial-Performance-Dashboard/blob/main/Screenshot%202026-04-05%20202701.png">View DashBoard</a>
 
 # Features
+
 ✅ Interactive KPI Cards showing key financial metrics at a glance.
 
 ✅ Dynamic charts that update automatically with slicer filters.
@@ -59,4 +60,6 @@ The following business questions were analyzed and answered through this dashboa
 # Final Conclusion
 
 This Financial Performance Dashboard successfully transforms raw financial data into clear, actionable insights for business decision-making.
+
+
 
