@@ -55,11 +55,24 @@ The following business questions were analyzed and answered through this dashboa
 
 
 # Dashboard
+
 <img width="1869" height="663" alt="Screenshot 2026-04-05 202701" src="https://github.com/user-attachments/assets/244ee1db-dd78-4d96-9bba-8785b7a4ad3b" />
+
 
 # Final Conclusion
 
 This Financial Performance Dashboard successfully transforms raw financial data into clear, actionable insights for business decision-making.
 
+
+## About Me
+Aspiring Data Analyst with hands-on experience in SQL, PostgreSQL, Excel, and data analysis projects.
+
+Connect with Me
+-**LinkedIn**:[Jay Kavitake](https://www.linkedin.com/in/jay-kavitake-011a312b7/). 
+
+-**GitHub**: (https://github.com/jaykavitake).
+
+
+Thank you for your support, and I look forward to connecting with you!
 
 
